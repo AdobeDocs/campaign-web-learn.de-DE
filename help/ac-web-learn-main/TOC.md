@@ -6,7 +6,7 @@ user-guide-description: Erfahren Sie, wie Sie die Funktionen der Adobe Campaign 
 breadcrumb-title: Web-Benutzeroberfläche – Tutorials
 auto-video-transcripts: true
 source-git-commit: 42bc130ee440c3967e5361229a4458689076298d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
 
