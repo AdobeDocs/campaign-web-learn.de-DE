@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Web-Benutzeroberfläche
 user-guide-description: Erfahren Sie, wie Sie die Funktionen der Adobe Campaign Web-Benutzeroberfläche verwenden.
 breadcrumb-title: Web-Benutzeroberfläche – Tutorials
 auto-video-transcripts: true
-source-git-commit: 5de2884c7673b3bc3b37392aabb7cb9c2b01b6a4
+source-git-commit: 39bb7a2ee3e2605192eaadf46d27fc883f2c2643
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 93%
+source-wordcount: '138'
+ht-degree: 88%
 
 ---
 
@@ -17,8 +17,8 @@ ht-degree: 93%
 
 + [Tutorials für die Adobe Campaign Web-Benutzeroberfläche](/help/ac-web-learn-main/overview.md)
 + Erste Schritte {#getting-started}
+   + [Adobe Campaign v8-Anleitung zur Adoption](https://experienceleague.adobe.com/en/docs/campaign-web/acs-to-ac/home)
    + [Erkunden der Campaign Web-Benutzeroberfläche](/help/get-started/explore-the-web-ui.md)
-   + [Erste Schritte mit Adobe Campaign v8 nach der Migration von Campaign Standard](https://experienceleague.adobe.com/docs/campaign-learn/get-started-with-campaign-v8/overview.html?lang=de)
 + Nachrichten und Sendungen {#messages-and-deliveries}
    + [Erstellen eines E-Mail-Versands](/help/deliveries/create-an-email-delivery.md)
    + [Gestalten eines ganz neuen E-Mail-Inhalts](/help/design-the-delivery/create-email-content-from-scratch.md)
