@@ -1,5 +1,5 @@
 ---
-title: Erstellen eines Briefpostversands
+title: Erstellen eines Briefpost-Versands
 description: Erfahren Sie, wie Sie in der Web-Benutzeroberfläche von Adobe Campaign v8 einen Briefpost-Versand erstellen.
 feature: Direct Mail
 role: User
@@ -8,18 +8,18 @@ doc-type: Feature Video
 duration: 480
 last-substantial-update: 2024-09-04T00:00:00Z
 jira: KT-14398
-source-git-commit: 126d7606a457f40e24b5e08467290e579b559428
-workflow-type: tm+mt
+exl-id: f8470477-8b4a-4310-8325-53732c77129f
+source-git-commit: eb3cd88884a6f6aab954539e24d78f5e9976500c
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
-
-# Erstellen eines Briefpostversands
+# Erstellen eines Briefpost-Versands
 
 Erfahren Sie, wie Sie in der Web-Benutzeroberfläche von Adobe Campaign v8 einen Briefpost-Versand erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433316/?learn=on)
 
-Weitere Informationen finden Sie in der Produktdokumentation zur Campaign-Webbenutzeroberfläche ](https://experienceleague.adobe.com/en/docs/campaign-web/v8/msg/direct-mail/gs-direct-mail) .[
+Weitere Informationen finden Sie in der [Produktdokumentation zur Campaign-Web-Benutzeroberfläche](https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/direct-mail/gs-direct-mail).

@@ -10,9 +10,9 @@ last-substantial-update: 2024-02-13T00:00:00Z
 jira: KT-14395
 exl-id: a10e4d21-9c84-447c-9414-77aa307d0bff
 source-git-commit: 311ef614c2256ec5faea0a6b1f12fa212a979da9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -24,6 +24,6 @@ Hier erfahren Sie, wie Sie im E-Mail-Designer navigieren. Erfahren Sie, wie Sie 
 
 >[!NOTE]
 >
->Der Zugriff auf das Assets-Menü ist auf Benutzer mit einer aktiven Adobe Experience Essentials-Lizenz beschränkt. Wenn Sie diese Lizenz nicht besitzen, ist das Menü Assets nicht verfügbar.
+>Der Zugriff auf das Menü „Assets“ ist auf Benutzerinnen und Benutzer mit einer aktiven Lizenz für Adobe Experience Essentials beschränkt. Wenn diese Lizenz nicht vorhanden ist, ist das Menü „Assets“ nicht verfügbar.
 
-Weitere Informationen zu dieser Funktion finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/email/create-email.html?lang=de).
+Weitere Informationen zu dieser Funktion finde Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/msg/email/create-email.html?lang=de).
