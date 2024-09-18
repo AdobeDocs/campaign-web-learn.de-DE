@@ -8,7 +8,7 @@ auto-video-transcripts: true
 source-git-commit: 39bb7a2ee3e2605192eaadf46d27fc883f2c2643
 workflow-type: tm+mt
 source-wordcount: '138'
-ht-degree: 88%
+ht-degree: 95%
 
 ---
 
@@ -24,9 +24,9 @@ ht-degree: 88%
    + [Gestalten eines ganz neuen E-Mail-Inhalts](/help/design-the-delivery/create-email-content-from-scratch.md)
    + [Erstellen einer E-Mail durch Hochladen von HTML](/help/design-the-delivery/create-an-email-by-uploading-html.md)
    + [Erstellen und Verbessern von E-Mail-Inhalten mit dem Inhaltsassistenten](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
-   + [Erstellen von Inhalten mit dem KI-Assistenten in Campaign - Content Accelerator](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
-   + [Vorschau und Testversand einer E-Mail-Sendung](/help/deliveries/preview-and-proof-an-email-delivery.md)
-   + [Erstellen eines Briefpostversands](/help/design-the-delivery/create-a-direct-mail-delivery.md)
+   + [Erstellen von Inhalten mit dem KI-Assistenten in Campaign Content Accelerator](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
+   + [Vorschau und Test eines E-Mail-Versands](/help/deliveries/preview-and-proof-an-email-delivery.md)
+   + [Erstellen eines Briefpost-Versands](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Profile und Zielgruppen {#profiles-and-audiences}
    + [Erkunden von Profilen](/help/profiles-and-audiences/explore-profiles.md)
    + [Zielgruppen verwalten und aufbauen](/help/profiles-and-audiences/manage-and-build-audiences.md)
