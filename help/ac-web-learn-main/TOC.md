@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign Web-Benutzeroberfläche
 user-guide-description: Erfahren Sie, wie Sie die Funktionen der Adobe Campaign Web-Benutzeroberfläche verwenden.
 breadcrumb-title: Web-Benutzeroberfläche – Tutorials
 auto-video-transcripts: true
-source-git-commit: 39bb7a2ee3e2605192eaadf46d27fc883f2c2643
+source-git-commit: d5625a3edfc642ab006f295401c2532e3d6e1b37
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 95%
@@ -23,9 +23,9 @@ ht-degree: 95%
    + [Erstellen eines E-Mail-Versands](/help/deliveries/create-an-email-delivery.md)
    + [Gestalten eines ganz neuen E-Mail-Inhalts](/help/design-the-delivery/create-email-content-from-scratch.md)
    + [Erstellen einer E-Mail durch Hochladen von HTML](/help/design-the-delivery/create-an-email-by-uploading-html.md)
+   + [Vorschau und Test eines E-Mail-Versands](/help/deliveries/preview-and-proof-an-email-delivery.md)
    + [Erstellen und Verbessern von E-Mail-Inhalten mit dem Inhaltsassistenten](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
    + [Erstellen von Inhalten mit dem KI-Assistenten in Campaign Content Accelerator](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
-   + [Vorschau und Test eines E-Mail-Versands](/help/deliveries/preview-and-proof-an-email-delivery.md)
    + [Erstellen eines Briefpost-Versands](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Profile und Zielgruppen {#profiles-and-audiences}
    + [Erkunden von Profilen](/help/profiles-and-audiences/explore-profiles.md)
