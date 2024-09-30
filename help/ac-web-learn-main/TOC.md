@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Web-Benutzeroberfläche
 user-guide-description: Erfahren Sie, wie Sie die Funktionen der Adobe Campaign Web-Benutzeroberfläche verwenden.
 breadcrumb-title: Web-Benutzeroberfläche – Tutorials
 auto-video-transcripts: true
-source-git-commit: d5625a3edfc642ab006f295401c2532e3d6e1b37
+source-git-commit: 0d61de1f116d1ee98abbb1e120a8a4d09db7ed4f
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 95%
+source-wordcount: '154'
+ht-degree: 85%
 
 ---
 
@@ -36,4 +36,5 @@ ht-degree: 95%
 + Live-Aufnahmen von Experience League {#exl-live-recordings}
    + [Mit der neuen Adobe Campaign Web-Benutzeroberfläche immer einen Schritt voraus](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=de){target="_blank"}
 + [Tutorials zur Campaign-Client-Konsole](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=de){target="_blank"}
++ [KI-Bash - Entsperren der Leistung des KI-Assistenten in Adobe Experience Platform-Anwendungen und Campaign](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
 
