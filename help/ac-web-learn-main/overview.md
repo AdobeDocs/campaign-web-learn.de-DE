@@ -6,7 +6,7 @@ role: User, Admin, Developer
 recommendations: noDisplay, noCatalog
 level: Beginner, Intermediate, Experienced
 exl-id: 866568a7-0763-43f9-af75-0c6d70ea082a
-source-git-commit: 0d61de1f116d1ee98abbb1e120a8a4d09db7ed4f
+source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
 workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 88%
@@ -26,6 +26,7 @@ Die Anpassung der Campaign-Plattform an geschäftliche und Datenanforderungen so
 >
 > Diese Tutorials sind nicht das, was Sie suchen?
 > Siehe
+> 
 > * [Tutorials für die Campaign-Client-Konsole](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=de){target="_blank"} für Anleitungen zur Campaign-Konsole
 > * [Adobe Campaign Web-Dokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html?lang=de){target="_blank"} für weitere Informationen zur Campaign Web-Benutzeroberfläche
 
