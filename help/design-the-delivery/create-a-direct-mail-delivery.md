@@ -11,15 +11,15 @@ jira: KT-14398
 hidefromtoc: false
 exl-id: f8470477-8b4a-4310-8325-53732c77129f
 source-git-commit: e3b149963f2fd306669facbc6f90200113ebf169
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 50%
+ht-degree: 100%
 
 ---
 
 # Erstellen eines Briefpost-Versands
 
-Briefpost ist ein Offline-Kanal, über den Sie Dateien erstellen können, um Ihren Kunden personalisierte Briefe wie Postkarten, Flyer oder Kataloge in großem Umfang zukommen zu lassen. Bei der Erstellung eines Briefpost-Versands generiert Adobe Campaign automatisch eine Extraktionsdatei, die alle Zielgruppenprofile und ausgewählten Daten wie Postanschriften und Profilattribute enthält.
+Briefpost ist ein Offline-Kanal, über den Sie Dateien erstellen können, um Ihrer Kundschaft personalisierte Sendungen wie Postkarten, Flyer oder Kataloge in großem Umfang zukommen zu lassen. Bei der Erstellung eines Briefpostversands generiert Adobe Campaign automatisch eine Extraktionsdatei, die alle Zielgruppenprofile und ausgewählten Daten wie Postanschriften und Profilattribute enthält.
 
 Erfahren Sie, wie Sie in der Web-Benutzeroberfläche von Adobe Campaign v8 einen Briefpost-Versand erstellen.
 

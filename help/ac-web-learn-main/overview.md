@@ -7,9 +7,9 @@ recommendations: noDisplay, noCatalog
 level: Beginner, Intermediate, Experienced
 exl-id: 866568a7-0763-43f9-af75-0c6d70ea082a
 source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '305'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -46,7 +46,7 @@ Die Anpassung der Campaign-Plattform an geschäftliche und Datenanforderungen so
 
   *Weitere Informationen dazu, wie Sie kanalübergreifende Kampagnen im neuen Benutzererlebnis planen, starten und messen können.*
 
-* **[KI-Bash - Entsperren der Leistung des KI-Assistenten in Adobe Experience Platform-Anwendungen und Campaign](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
+* **[KI-Treff – Ausschöpfen des Potenzials des KI-Assistenten in Adobe Experience Platform-Anwendungen und Campaign](https://experienceleague.adobe.com/de/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)**
 
-  *Erfahren Sie, wie der KI-Assistent Kundeninteraktionen transformiert und die Produktivität in Adobe Experience Cloud-Anwendungen und Adobe Campaign erhöht.*
+  *Erfahren Sie, wie der KI-Assistent Kundeninteraktionen transformiert und die Produktivität in Adobe Experience Cloud-Anwendungen und Adobe Campaign optimiert.*
 

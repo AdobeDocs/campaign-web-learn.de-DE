@@ -6,9 +6,9 @@ user-guide-description: Erfahren Sie, wie Sie die Funktionen der Adobe Campaign 
 breadcrumb-title: Web-Benutzeroberfläche – Tutorials
 auto-video-transcripts: true
 source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '154'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ ht-degree: 85%
 
 + [Tutorials für die Adobe Campaign Web-Benutzeroberfläche](/help/ac-web-learn-main/overview.md)
 + Erste Schritte {#getting-started}
-   + [Adobe Campaign v8-Anleitung zur Adoption](https://experienceleague.adobe.com/en/docs/campaign-web/acs-to-ac/home)
+   + [Einführungsleitfaden für Adobe Campaign v8](https://experienceleague.adobe.com/de/docs/campaign-web/acs-to-ac/home)
    + [Erkunden der Campaign Web-Benutzeroberfläche](/help/get-started/explore-the-web-ui.md)
 + Nachrichten und Sendungen {#messages-and-deliveries}
    + [Erstellen eines E-Mail-Versands](/help/deliveries/create-an-email-delivery.md)
@@ -36,4 +36,4 @@ ht-degree: 85%
 + Live-Aufnahmen von Experience League {#exl-live-recordings}
    + [Mit der neuen Adobe Campaign Web-Benutzeroberfläche immer einen Schritt voraus](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=de){target="_blank"}
 + [Tutorials zur Campaign-Client-Konsole](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=de){target="_blank"}
-+ [KI-Bash - Entsperren der Leistung des KI-Assistenten in Adobe Experience Platform-Anwendungen und Campaign](https://experienceleague.adobe.com/en/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
++ [KI-Treff – Ausschöpfen des Potenzials des KI-Assistenten in Adobe Experience Platform-Anwendungen und Campaign](https://experienceleague.adobe.com/de/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
