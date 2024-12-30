@@ -18,6 +18,6 @@ ht-degree: 28%
 
 # Erstellen einer Zielgruppe mit Experience Platform
 
-Erfahren Sie, wie Sie ein Ziel für die Verwendung einer Experience Platform-Audience in Adobe Campaign erstellen.
+Erfahren Sie, wie Sie ein Ziel erstellen, um eine Experience Platform-Zielgruppe in Adobe Campaign zu verwenden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427635/?learn=on)

@@ -10,13 +10,13 @@ duration: 206
 last-substantial-update: 2024-09-11T00:00:00Z
 hidefromtoc: false
 hide: false
-source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
-workflow-type: ht
+exl-id: 4204e19b-3b4b-42f1-ae60-1c4c6b44039e
+source-git-commit: 4b3f0266261a57e9d2f25448fd4f148dd0d86d48
+workflow-type: tm+mt
 source-wordcount: '99'
 ht-degree: 100%
 
 ---
-
 
 # Erstellen von Inhalten mit dem KI-Assistenten in Campaign Content Accelerator
 

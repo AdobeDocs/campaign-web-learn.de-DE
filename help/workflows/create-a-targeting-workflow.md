@@ -12,7 +12,7 @@ exl-id: fa2ca5cd-decd-4360-86fc-412b06fae18a
 source-git-commit: a20bff7850298b1a280435a369b5a9494bc2eb27
 workflow-type: tm+mt
 source-wordcount: '41'
-ht-degree: 43%
+ht-degree: 97%
 
 ---
 
@@ -23,4 +23,4 @@ Erfahren Sie, wie Workflows funktionieren und wie Sie einen Zielgruppen-Workflow
 >[!VIDEO](https://video.tv.adobe.com/v/3425873/?learn=on)
 
 
-Weitere Informationen zu dieser Funktion finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html).
+Weitere Informationen zu dieser Funktion finde Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html).
