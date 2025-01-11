@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Web-Benutzeroberfläche
 user-guide-description: Erfahren Sie, wie Sie die Funktionen der Adobe Campaign Web-Benutzeroberfläche verwenden.
 breadcrumb-title: Web-Benutzeroberfläche – Tutorials
 auto-video-transcripts: true
-source-git-commit: 4cc7d83096f08728a5fb7ad7972be5953ca62126
+source-git-commit: 3dd71a4f48ce20b2118806120baba50c6a6429aa
 workflow-type: tm+mt
-source-wordcount: '159'
-ht-degree: 100%
+source-wordcount: '165'
+ht-degree: 97%
 
 ---
 
@@ -27,6 +27,8 @@ ht-degree: 100%
    + [Erstellen und Verbessern von E-Mail-Inhalten mit dem Inhaltsassistenten](/help/design-the-delivery/create-and-improve-email-content-with-the-content-assistant.md)
    + [Erstellen von Inhalten mit dem KI-Assistenten in Campaign Content Accelerator](/help/design-the-delivery/create-content-with-the-ai-assistant-content-accelerator.md)
    + [Erstellen eines Briefpost-Versands](/help/design-the-delivery/create-a-direct-mail-delivery.md)
++ Content-Management {#content-management}
+   + [Verbessern der Bereitstellung mit dynamischen Inhalten](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
 + Profile und Zielgruppen {#profiles-and-audiences}
    + [Erkunden von Profilen](/help/profiles-and-audiences/explore-profiles.md)
    + [Erstellen und Verwalten von Testprofilen](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
