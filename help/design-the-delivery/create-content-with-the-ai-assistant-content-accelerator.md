@@ -1,6 +1,6 @@
 ---
-title: Erstellen von Inhalten mit dem KI-Assistenten in Campaign Content Accelerator
-description: Erfahren Sie, wie Sie mit dem KI-Assistenten in Campaign Content Accelerator kanalbezogene Inhalte für Echtzeit-1:1- und Batch-Kampagnen generieren, die bei der Zielgruppe ankommen.
+title: Erstellen von Inhalten mit dem KI-Assistenten für die Inhaltserstellung
+description: Erfahren Sie, wie Sie mit dem KI-Assistenten für die Inhaltserstellung kanalabhängige Inhalte für 1:1-Echtzeit- und Batch-Kampagnen generieren, die bei der Zielgruppe Anklang finden.
 feature: Email Design
 role: Admin, Developer, Leader, User
 level: Beginner, Intermediate, Experienced
@@ -11,16 +11,16 @@ last-substantial-update: 2024-09-11T00:00:00Z
 hidefromtoc: false
 hide: false
 exl-id: 4204e19b-3b4b-42f1-ae60-1c4c6b44039e
-source-git-commit: 4b3f0266261a57e9d2f25448fd4f148dd0d86d48
+source-git-commit: 5786cc852e17ec39c43480ccfd6051a2a8f3bd72
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 100%
+source-wordcount: '95'
+ht-degree: 22%
 
 ---
 
-# Erstellen von Inhalten mit dem KI-Assistenten in Campaign Content Accelerator
+# Erstellen von Inhalten mit dem KI-Assistenten für die Inhaltserstellung
 
-Erfahren Sie, wie Sie mit dem KI-Assistenten in Campaign Content Accelerator kanalbezogene Inhalte für Echtzeit-1:1- und Batch-Kampagnen generieren, die bei der Zielgruppe ankommen.
+Erfahren Sie, wie Sie mit dem KI-Assistenten für die Inhaltserstellung kanalabhängige Inhalte für 1:1-Echtzeit- und Batch-Kampagnen generieren, die bei der Zielgruppe Anklang finden.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433569/?learn=on)
 
