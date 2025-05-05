@@ -22,4 +22,4 @@ Beim Erstellen einer Kampagne in Adobe Campaign können Sie dynamische Inhalte u
 
 Erfahren Sie, wie Sie ein Testprofil in der Client-Konsole erstellen und wie Sie Profile in der Adobe Campaign-Web-Benutzeroberfläche verwalten und bearbeiten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3442844/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3442904/?learn=on&enablevpops&captions=ger)

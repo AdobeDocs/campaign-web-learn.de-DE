@@ -20,6 +20,6 @@ ht-degree: 98%
 
 Erfahren Sie, wie Sie mit der Campaign Web-Benutzeroberfläche auf Profile zugreifen, diese verwalten und erkunden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427293/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448373/?learn=on&captions=ger)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/work-with-profiles/about-recipients.html?lang=de)

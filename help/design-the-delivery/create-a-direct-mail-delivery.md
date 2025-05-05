@@ -23,6 +23,6 @@ Briefpost ist ein Offline-Kanal, über den Sie Dateien erstellen können, um Ihr
 
 Erfahren Sie, wie Sie in der Web-Benutzeroberfläche von Adobe Campaign v8 einen Briefpost-Versand erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433316/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451792/?learn=on&captions=ger)
 
 Weitere Informationen finden Sie in der [Produktdokumentation zur Campaign-Web-Benutzeroberfläche](https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/direct-mail/gs-direct-mail).

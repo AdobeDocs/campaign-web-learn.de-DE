@@ -27,6 +27,6 @@ Erfahren Sie, wie Sie mit dem durch generative KI gestützten Inhaltsassistente
 >
 > Diese Funktion ist momentan in der Alpha-Version verfügbar und kann ohne vorherige Ankündigung geändert werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425796/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452083/?learn=on&captions=ger)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/de/docs/campaign-web/v8/msg/email/content/content-assistant/generative-gs).

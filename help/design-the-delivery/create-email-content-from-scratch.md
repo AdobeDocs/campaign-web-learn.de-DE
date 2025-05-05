@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Hier erfahren Sie, wie Sie im E-Mail-Designer navigieren. Erfahren Sie, wie Sie eine E-Mail neu strukturieren und entwerfen und wie Sie Ihre E-Mail personalisieren und testen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425867/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453574/?learn=on&captions=ger)
 
 >[!NOTE]
 >
