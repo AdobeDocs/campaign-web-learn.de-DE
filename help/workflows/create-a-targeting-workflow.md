@@ -23,4 +23,4 @@ Erfahren Sie, wie Workflows funktionieren und wie Sie einen Zielgruppen-Workflow
 >[!VIDEO](https://video.tv.adobe.com/v/3425873/?learn=on)
 
 
-Weitere Informationen zu dieser Funktion finde Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html).
+Weitere Informationen zu dieser Funktion finde Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html?lang=de).

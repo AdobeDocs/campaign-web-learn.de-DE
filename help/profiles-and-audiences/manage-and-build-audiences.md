@@ -22,4 +22,4 @@ Erfahren Sie, wie Sie Zielgruppen erstellen und verwalten, wie Sie Zielgruppen f
 
 >[!VIDEO](https://video.tv.adobe.com/v/3425861/?learn=on)
 
-Weitere Informationen zu dieser Funktion finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=en)
+Weitere Informationen zu dieser Funktion finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=de)
