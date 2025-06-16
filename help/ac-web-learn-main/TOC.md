@@ -6,9 +6,9 @@ user-guide-description: Erfahren Sie, wie Sie die Funktionen der Adobe Campaign 
 breadcrumb-title: Web-Benutzeroberfläche – Tutorials
 auto-video-transcripts: true
 source-git-commit: c0586330363a33e23b77c911c984aece9bb6ae83
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '157'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -35,7 +35,7 @@ ht-degree: 83%
    + [Erstellen einer Zielgruppe mit Experience Platform](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + Workflows {#workflows}
    + [Erstellen eines Zielgruppen-Workflows](/help/workflows/create-a-targeting-workflow.md)
-+ Experience League Live-Aufzeichnungen {#exl-live-recordings}
-   + [Ein Sprung nach vorn mit der neuen Adobe Campaign Web-Benutzeroberfläche](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=de){target="_blank"}
++ Live-Aufnahmen von Experience League {#exl-live-recordings}
+   + [Mit der neuen Adobe Campaign Web-Benutzeroberfläche immer einen Schritt voraus](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=de){target="_blank"}
 + [Tutorials zur Campaign-Client-Konsole](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=de){target="_blank"}
 + [KI-Treff – Ausschöpfen des Potenzials des KI-Assistenten in Adobe Experience Platform-Anwendungen und Campaign](https://experienceleague.adobe.com/de/docs/events/experience-league-live-recordings/episodes/exl-live-episode-09-26-24)
