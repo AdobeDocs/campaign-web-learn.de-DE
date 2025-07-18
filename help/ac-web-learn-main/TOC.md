@@ -5,7 +5,7 @@ user-guide-title: Adobe Campaign Web-Benutzeroberfläche
 user-guide-description: Erfahren Sie, wie Sie die Funktionen der Adobe Campaign Web-Benutzeroberfläche verwenden.
 breadcrumb-title: Web-Benutzeroberfläche – Tutorials
 auto-video-transcripts: true
-source-git-commit: b256cae07b17e5ca318ac2985116f63fbd6e467c
+source-git-commit: a30c5951a9e7cc4ec1c33e59d59e9bda11c6041f
 workflow-type: tm+mt
 source-wordcount: '162'
 ht-degree: 96%
@@ -24,10 +24,10 @@ ht-degree: 96%
    + [Gestalten eines ganz neuen E-Mail-Inhalts](/help/design-the-delivery/create-email-content-from-scratch.md)
    + [Erstellen einer E-Mail durch Hochladen von HTML](/help/design-the-delivery/create-an-email-by-uploading-html.md)
    + [Vorschau und Test eines E-Mail-Versands](/help/deliveries/preview-and-proof-an-email-delivery.md)
-   + [Erstellen von Inhalten mit dem KI-Assistenten für die Inhaltserstellung](/help/design-the-delivery/create-content-using-the-ai-assistant.md)
    + [Erstellen eines Briefpost-Versands](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Content-Management {#content-management}
    + [Verbessern eines Versands mit dynamischen Inhalten](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
+   + [Erstellen von Inhalten mit dem KI-Assistenten für die Inhaltserstellung](/help/design-the-delivery/create-content-using-the-ai-assistant.md)
 + Profile und Zielgruppen  {#profiles-and-audiences}
    + [Erkunden von Profilen](/help/profiles-and-audiences/explore-profiles.md)
    + [Erstellen und Verwalten von Testprofilen](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
