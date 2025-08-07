@@ -24,4 +24,4 @@ Dieses Tutorial behandelt sowohl einfache als auch erweiterte Skriptmodi. Hier w
 
 >[!VIDEO](https://video.tv.adobe.com/v/3464918/?learn=on&enablevpops)
 
-In der [Produktdokumentation](https://experienceleague.adobe.com/en/docs/campaign-web/v8/wf/design-workflows/javascript-code) finden Sie weitere Informationen zu dieser Funktion.
+In der [Produktdokumentation](https://experienceleague.adobe.com/de/docs/campaign-web/v8/wf/design-workflows/javascript-code) finden Sie weitere Informationen zu dieser Funktion.
