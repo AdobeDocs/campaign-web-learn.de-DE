@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Web-Benutzeroberfläche
 user-guide-description: Erfahren Sie, wie Sie die Funktionen der Adobe Campaign Web-Benutzeroberfläche verwenden.
 breadcrumb-title: Web-Benutzeroberfläche – Tutorials
 auto-video-transcripts: true
-source-git-commit: a30c5951a9e7cc4ec1c33e59d59e9bda11c6041f
+source-git-commit: ad2377dde49c1ab0f805c998d407d04ffe659c26
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 96%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,12 +19,13 @@ ht-degree: 96%
 + Jetzt starten {#getting-started}
    + [Einführungsleitfaden für Adobe Campaign v8](https://experienceleague.adobe.com/de/docs/campaign-web/acs-to-ac/home)
    + [Erkunden der Campaign Web-Benutzeroberfläche](/help/get-started/explore-the-web-ui.md)
+   + [Interaktive Demo](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)
 + Nachrichten und Sendungen {#messages-and-deliveries}
    + [Erstellen eines E-Mail-Versands](/help/deliveries/create-an-email-delivery.md)
    + [Gestalten eines ganz neuen E-Mail-Inhalts](/help/design-the-delivery/create-email-content-from-scratch.md)
    + [Erstellen einer E-Mail durch Hochladen von HTML](/help/design-the-delivery/create-an-email-by-uploading-html.md)
-   + [Vorschau und Test eines E-Mail-Versands](/help/deliveries/preview-and-proof-an-email-delivery.md)
-   + [Erstellen eines Briefpost-Versands](/help/design-the-delivery/create-a-direct-mail-delivery.md)
+   + [Vorschau und Testversand einer E-Mail-Sendung](/help/deliveries/preview-and-proof-an-email-delivery.md)
+   + [Erstellen eines Briefpostversands](/help/design-the-delivery/create-a-direct-mail-delivery.md)
 + Content-Management {#content-management}
    + [Verbessern eines Versands mit dynamischen Inhalten](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
    + [Erstellen von Inhalten mit dem KI-Assistenten für die Inhaltserstellung](/help/design-the-delivery/create-content-using-the-ai-assistant.md)
