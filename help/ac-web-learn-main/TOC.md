@@ -5,10 +5,10 @@ user-guide-title: Adobe Campaign Web-Benutzeroberfläche
 user-guide-description: Erfahren Sie, wie Sie die Funktionen der Adobe Campaign Web-Benutzeroberfläche verwenden.
 breadcrumb-title: Web-Benutzeroberfläche – Tutorials
 auto-video-transcripts: true
-source-git-commit: ad2377dde49c1ab0f805c998d407d04ffe659c26
+source-git-commit: 9dd078a55d56e62c260a528585b33f786c492455
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '165'
+ht-degree: 95%
 
 ---
 
@@ -17,9 +17,9 @@ ht-degree: 0%
 
 + [Tutorials für die Adobe Campaign Web-Benutzeroberfläche](/help/ac-web-learn-main/overview.md)
 + Jetzt starten {#getting-started}
+   + [Interaktive Demo](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)
    + [Einführungsleitfaden für Adobe Campaign v8](https://experienceleague.adobe.com/de/docs/campaign-web/acs-to-ac/home)
    + [Erkunden der Campaign Web-Benutzeroberfläche](/help/get-started/explore-the-web-ui.md)
-   + [Interaktive Demo](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)
 + Nachrichten und Sendungen {#messages-and-deliveries}
    + [Erstellen eines E-Mail-Versands](/help/deliveries/create-an-email-delivery.md)
    + [Gestalten eines ganz neuen E-Mail-Inhalts](/help/design-the-delivery/create-email-content-from-scratch.md)

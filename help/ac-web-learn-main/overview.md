@@ -6,18 +6,20 @@ role: User, Admin, Developer
 recommendations: noDisplay, noCatalog
 level: Beginner, Intermediate, Experienced
 exl-id: 866568a7-0763-43f9-af75-0c6d70ea082a
-source-git-commit: 6104839cdc0007219afecfd651bb55edf1aff3e2
+source-git-commit: 9dd078a55d56e62c260a528585b33f786c492455
 workflow-type: tm+mt
 source-wordcount: '305'
-ht-degree: 100%
+ht-degree: 91%
 
 ---
 
 # Tutorials für die Adobe Campaign Web-Benutzeroberfläche
 
-Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die visuelle Kampagnenorchestrierung, die Echtzeit-Interaktionsverwaltung und die Cross-Channel-Ausführung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen der Adobe Campaign Web-Benutzeroberfläche. Neue Videos werden regelmäßig hinzugefügt.
+Adobe Campaign bietet eine Plattform zur Konzeption kanalübergreifender Kundenerlebnisse und stellt dazu eine Umgebung für die visuelle Kampagnenorchestrierung, die Echtzeit-Interaktionsverwaltung und die Cross-Channel-Ausführung bereit. Dieses Benutzerhandbuch enthält Videos und Tutorials zu den verschiedenen Funktionen der Adobe Campaign Web-Benutzeroberfläche.
 
-Die Anpassung der Campaign-Plattform an geschäftliche und Datenanforderungen sowie die Verbindung zu anderen Systemen werden in der Campaign-Client-Konsole verwaltet. Daher können einige Einstellungen und Funktionen nur über die Campaign-Client-Konsole aufgerufen, erstellt oder verwaltet werden. Siehe [Handbuch für Campaign Web und Client-Konsole](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html?lang=de){target="_blank"} für einen Überblick über die künftigen Einstellungen und Funktionen.
+Testen Sie die [klickbare Demo](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)
+
+Die Anpassung der Campaign-Plattform an geschäftliche und Datenanforderungen sowie die Verbindung zu anderen Systemen werden in der Campaign-Client-Konsole verwaltet. Daher können einige Einstellungen und Funktionen nur über die Campaign-Client-Konsole aufgerufen, erstellt oder verwaltet werden. Im [Handbuch für Campaign Web und Client Console](https://experienceleague.adobe.com/docs/campaign-web/v8/start/capability-matrix.html?lang=de){target="_blank"} finden Sie einen Überblick über die Einstellungen und Funktionen, die in Zukunft eingeführt werden.
 
 >[!INFO]
 > 
@@ -27,8 +29,8 @@ Die Anpassung der Campaign-Plattform an geschäftliche und Datenanforderungen so
 > Diese Tutorials sind nicht das, was Sie suchen?
 > Siehe
 > 
-> * [Tutorials für die Campaign-Client-Konsole](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=de){target="_blank"} für Anleitungen zur Campaign-Konsole
-> * [Adobe Campaign Web-Dokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html?lang=de){target="_blank"} für weitere Informationen zur Campaign Web-Benutzeroberfläche
+> * den [Tutorials für die Campaign Client-Konsole](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=de){target="_blank"}, wo es Anleitungen zur Campaign-Konsole gibt
+> * der [Adobe Campaign Web-Dokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/campaign-web-home.html?lang=de){target="_blank"}, wo Sie weitere Informationen zur Campaign Web-Benutzeroberfläche erhalten.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
