@@ -20,6 +20,6 @@ ht-degree: 100%
 
 Hier finden Sie Informationen dazu, wie Sie auf die Campaign Web-Benutzeroberfläche zugreifen und darin navigieren können und wie Sie die Inventarlisten anpassen können. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3427278/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453431/?captions=ger&learn=on)
 
 Siehe [Erste Schritte mit Adobe Campaign Web](https://experienceleague.adobe.com/docs/campaign-web/v8/start/get-started.html?lang=de) für weitere Informationen zum Navigieren in der Web-Benutzeroberfläche von Campaign v8.
