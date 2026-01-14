@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie eine Vorschau des Inhalts und der Personalisierung von E-Mail-Nachrichten anzeigen, Testsendungen für Test und Validierung an bestimmte Empfängerinnen und Empfänger oder Abonnentinnen und Abonnenten senden und das E-Mail-Rendering in beliebten Desktop-, Mobile- und Web-basierten Clients überprüfen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425862/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450346/?captions=ger&learn=on)

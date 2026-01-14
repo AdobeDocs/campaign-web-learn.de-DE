@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie eine E-Mail durch Hochladen von HTML erstellen, wie Sie sie mit dem E-Mail-Designer kompatibel machen und wie Sie sie in eine Vorlage konvertieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3427633/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447041/?captions=ger&learn=on)
