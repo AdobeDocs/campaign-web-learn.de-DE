@@ -10,7 +10,7 @@ last-substantial-update: 2024-02-13T00:00:00Z
 jira: KT-14395
 exl-id: a10e4d21-9c84-447c-9414-77aa307d0bff
 source-git-commit: 311ef614c2256ec5faea0a6b1f12fa212a979da9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '98'
 ht-degree: 100%
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Hier erfahren Sie, wie Sie im E-Mail-Designer navigieren. Erfahren Sie, wie Sie eine E-Mail neu strukturieren und entwerfen und wie Sie Ihre E-Mail personalisieren und testen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453574/?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3425867/?learn=on)
 
 >[!NOTE]
 >

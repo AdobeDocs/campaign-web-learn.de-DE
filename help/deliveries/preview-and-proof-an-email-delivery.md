@@ -10,7 +10,7 @@ last-substantial-update: 2024-02-29T00:00:00Z
 jira: KT-14404
 exl-id: 4fcf42c6-d8e9-4aff-8e06-822aa381ffd7
 source-git-commit: a20bff7850298b1a280435a369b5a9494bc2eb27
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '80'
 ht-degree: 100%
 
@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie eine Vorschau des Inhalts und der Personalisierung von E-Mail-Nachrichten anzeigen, Testsendungen für Test und Validierung an bestimmte Empfängerinnen und Empfänger oder Abonnentinnen und Abonnenten senden und das E-Mail-Rendering in beliebten Desktop-, Mobile- und Web-basierten Clients überprüfen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450346/?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3425862/?learn=on)
