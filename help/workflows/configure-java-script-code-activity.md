@@ -22,6 +22,6 @@ Erfahren Sie, wie Sie die JavaScript-Code-Aktivität in Adobe Campaign Web v8 e
 
 In diesem Tutorial werden sowohl einfache als auch erweiterte Skriptmodi behandelt. Es werden Ausführungseinstellungen und Fehlerbehandlung erläutert. Sie sehen Beispiele aus der Praxis, z. B. das Targeting von VIP-Profilen, das Umwandeln von Daten und das Auslösen bedingter Vorgänge.
 
->[!VIDEO](https://video.tv.adobe.com/v/3464918/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3464928/?captions=ger&learn=on&enablevpops)
 
 In der [Produktdokumentation](https://experienceleague.adobe.com/de/docs/campaign-web/v8/wf/design-workflows/javascript-code) finden Sie weitere Informationen zu dieser Funktion.

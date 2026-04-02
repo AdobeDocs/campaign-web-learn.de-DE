@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Erfahren Sie, wie Workflows funktionieren und wie Sie einen Zielgruppen-Workflow erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425873/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453981/?captions=ger&learn=on)
 
 
 Weitere Informationen zu dieser Funktion finde Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/wf/gs-workflows.html?lang=de).
