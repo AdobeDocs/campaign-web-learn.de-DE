@@ -6,9 +6,9 @@ user-guide-description: Erfahren Sie, wie Sie die Funktionen der Adobe Campaign 
 breadcrumb-title: Web-Benutzeroberfläche – Tutorials
 auto-video-transcripts: true
 source-git-commit: 9dd078a55d56e62c260a528585b33f786c492455
-workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 95%
+workflow-type: ht
+source-wordcount: '232'
+ht-degree: 100%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 95%
 # Tutorials für die Adobe Campaign Web-Benutzeroberfläche {#tutorials}
 
 + [Tutorials für die Adobe Campaign Web-Benutzeroberfläche](/help/ac-web-learn-main/overview.md)
-+ Jetzt starten {#getting-started}
++ Erste Schritte {#getting-started}
    + [Interaktive Demo](https://app.teamwalnut.com/player/?demoId=08e65781-49bb-41a9-a238-2723a4478015&screenId=03a9500a-8b4f-411c-922f-748ace9c108a&showGuide=true&showGuidesToolbar=true&showHotspots=true&openGuidesToolbar=false)
    + [Einführungsleitfaden für Adobe Campaign v8](https://experienceleague.adobe.com/de/docs/campaign-web/acs-to-ac/home)
    + [Erkunden der Campaign Web-Benutzeroberfläche](/help/get-started/explore-the-web-ui.md)
@@ -29,14 +29,14 @@ ht-degree: 95%
 + Content-Management {#content-management}
    + [Verbessern eines Versands mit dynamischen Inhalten](/help/design-the-delivery/enhance-a-delivery-with-dynamic-content.md)
    + [Erstellen von Inhalten mit dem KI-Assistenten für die Inhaltserstellung](/help/design-the-delivery/create-content-using-the-ai-assistant.md)
-+ Profile und Zielgruppen  {#profiles-and-audiences}
++ Profile und Zielgruppen {#profiles-and-audiences}
    + [Erkunden von Profilen](/help/profiles-and-audiences/explore-profiles.md)
    + [Erstellen und Verwalten von Testprofilen](/help/profiles-and-audiences/create-and-manage-test-profiles.md)
    + [Zielgruppen verwalten und aufbauen](/help/profiles-and-audiences/manage-and-build-audiences.md)
    + [Erstellen einer Zielgruppe mit Experience Platform](/help/profiles-and-audiences/create-an-audience-with-experience-platform.md)
 + Workflows {#workflows}
-   + [Erstellen eines Zielgruppen-Workflows](/help/workflows/create-a-targeting-workflow.md)
-   + [Java Script-Code-Aktivität konfigurieren](/help/workflows/configure-java-script-code-activity.md)
+   + [Zielgruppen-Workflow erstellen](/help/workflows/create-a-targeting-workflow.md)
+   + [Konfigurieren der Java Script-Code-Aktivität](/help/workflows/configure-java-script-code-activity.md)
 + Live-Aufnahmen von Experience League {#exl-live-recordings}
    + [Mit der neuen Adobe Campaign Web-Benutzeroberfläche immer einen Schritt voraus](https://experienceleague.adobe.com/docs/events/experience-league-live-recordings/episodes/exl-live-episode-02-29-24.html?lang=de){target="_blank"}
 + [Tutorials zur Campaign-Client-Konsole](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=de){target="_blank"}

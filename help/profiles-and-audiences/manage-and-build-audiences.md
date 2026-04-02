@@ -10,9 +10,9 @@ last-substantial-update: 2024-02-15T00:00:00Z
 jira: KT-14392
 exl-id: 59bd4866-02de-4bf6-a104-96416251e850
 source-git-commit: a20bff7850298b1a280435a369b5a9494bc2eb27
-workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 98%
+workflow-type: ht
+source-wordcount: '66'
+ht-degree: 100%
 
 ---
 
@@ -20,6 +20,6 @@ ht-degree: 98%
 
 Erfahren Sie, wie Sie Zielgruppen erstellen und verwalten, wie Sie Zielgruppen für einen Versand auswählen und Kontrollgruppen definieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453211/?learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3425861/?learn=on)
 
 Weitere Informationen zu dieser Funktion finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/campaign-web/v8/audiences/audiences/create-audience.html?lang=de)
