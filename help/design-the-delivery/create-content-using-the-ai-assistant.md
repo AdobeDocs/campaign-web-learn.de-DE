@@ -11,7 +11,7 @@ last-substantial-update: 2025-06-09T00:00:00Z
 hidefromtoc: false
 hide: false
 exl-id: 4204e19b-3b4b-42f1-ae60-1c4c6b44039e
-source-git-commit: 134c79c023dc85fca65ba92bad669bc49322fe1f
+source-git-commit: f386fd9b65ea1f2db4817a1a8519d3d24633bbb9
 workflow-type: ht
 source-wordcount: '116'
 ht-degree: 100%
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie mit der Content-Beschleunigung des KI-Assistenten von Adobe schnell Marketing-E-Mails einschließlich Betreffzeilen, Textkörper und Bildern generieren und anpassen und dabei markenkonforme Assets integrieren können, um Konsistenz und Compliance zu gewährleisten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463773/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463762/?learn=on&enablevpops)
 
 ## Zusätzliche Ressourcen
 
