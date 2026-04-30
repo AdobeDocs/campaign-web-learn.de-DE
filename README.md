@@ -1,10 +1,64 @@
 ---
-source-git-commit: 0e7b7f5385bf2e6e66cef76e8c3cc5f4ba61f433
+source-git-commit: 13f46ed7bfa40b6f71ec4c422af83929bc353e37
 workflow-type: tm+mt
-source-wordcount: '7'
-ht-degree: 0%
+source-wordcount: '521'
+ht-degree: 35%
 
 ---
-# ARCHIVIERT
+# Artikel beitragen
 
-Dieses Repository wurde nach <https://github.com/Adobe-Enterprise-Docs/campaign-web-learn.de-DE> migriert.
+Wir freuen uns über Beiträge von unserer Community sowie von Adobe-Mitarbeitenden außerhalb der Dokumentations-Teams.
+
+## Verhaltenskodex von Adobe Open Source
+
+Dieses Projekt übernimmt den [Verhaltenskodex von Adobe Open Source](code-of-conduct.md) oder den [Verhaltenskodex von .NET Foundation](https://dotnetfoundation.org/code-of-conduct). Weitere Informationen finden Sie im Artikel [Mitwirken](contributing.md).
+
+## Beiträge zu Adobe-Inhalten
+
+**Wenn Sie kein Adobe-Mitarbeiter sind** können Sie einen externen Community-Beitrag einreichen. Community-Beiträge werden in unsere internen Systeme importiert und im öffentlichen Repository bearbeitet und zusammengeführt. Das öffentliche Repository wird dann mit den neuesten Änderungen synchronisiert und im privaten Repository zusammengeführt.
+
+**Wenn Sie Adobe-Mitarbeiter sind** können Sie direkt zum privaten [Adobe GitHub-Repository ](https://git.corp.adobe.com/AdobeDocs/). Weitere Informationen finden Sie im Adobe Experience League Authoring-Handbuch für Adobe-Mitarbeiter.
+
+## Externe Mitwirkende
+
+### Geringfügige Änderungen
+
+Wenn Sie eine kleinere Aktualisierung beitragen:
+
+1. Navigieren Sie zu dem Thema, das Sie bearbeiten möchten.
+1. Im Abschnitt „War dieser Inhalt hilfreich?“ Ein Banner, das unten in Ihrem Browser-Fenster angezeigt wird, klicken Sie auf **Detaillierte Feedback-Optionen**.
+1. Klicken Sie **Bearbeiten vorschlagen** und senden Sie eine Pull-Anfrage (PR) mit Ihren Änderungen in der GitHub-Benutzeroberfläche.
+
+   Weitere Informationen finden Sie im allgemeinen [Leitfaden für Adobe Docs-Mitwirkende](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=de).
+
+Kleinere Korrekturen oder Erläuterungen, die Sie zur Dokumentation und zu Code-Beispielen in diesem Repository eingeben, werden von den Adobe-Nutzungsbedingungen abgedeckt.
+
+### Wichtige Änderungen oder neue Themen aus der Community
+
+Wenn Sie Teil der Adobe-Community sind und ein neues Thema erstellen oder größere Änderungen vornehmen möchten, verwenden Sie die Registerkarte **Probleme** im entsprechenden Git-Repository, um ein Problem zu senden und eine Konversation mit dem Dokumentations-Team zu beginnen. Sobald ein Plan vereinbart wurde, werden Sie mit einem Adobe-Autor zusammenarbeiten, um Ihre Revisionen zu veröffentlichen.
+
+**HINWEIS:** Wenn Sie eine Pull-Anfrage mit wichtigen Änderungen an der Dokumentation und den Code-Beispielen senden, wird in der Pull-Anfrage eine Meldung angezeigt, in der Sie aufgefordert werden, eine Online-Beitragslizenzvereinbarung (Online Contribution License Agreement, CLA) einzureichen. Sie müssen das Online-Formular ausfüllen, bevor wir Ihre Pull-Anforderung überprüfen können.
+
+### Tools
+
+Community-Mitwirkende können für eine einfache Bearbeitung die GitHub-Benutzeroberfläche oder für größere Beiträge das Repository nutzen.
+
+Weitere Informationen finden Sie im [Handbuch für Adobe Docs-Mitwirkende](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=de).
+
+## Interne Mitwirkende
+
+Wenn Sie technischer Redakteur/technische Redakteurin, Programmmanager oder Entwickler(in) des Produktteams für eine Adobe Experience Cloud-Lösung sind und es Ihre Aufgabe ist, technische Artikel zu erstellen oder zu diesen beizutragen, verwenden Sie das [private Repository](https://git.corp.adobe.com/AdobeDocs).
+
+## Thema formatieren
+
+Alle Artikel in diesem Repository verwenden Markdown mit GitHub-Variante. Wenn Sie mit Markdown nicht vertraut sind, lesen Sie:
+
+* [Markdown-Grundlagen](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
+* [Markdown-Cheatsheet zum Ausdrucken](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+
+## Labels
+
+Im öffentlichen Repository werden Pull-Anfragen automatische Labels zugewiesen, damit wir den Workflow für Pull-Anfragen verwalten und Sie über den Status Ihrer Pull-Anfragen informieren können:
+
+* **Änderung an Autor gesendet:** Die Autorin bzw. der Autor wurde über die ausstehende Pull-Anfrage informiert.
+* **Bereit für Zusammenführung:** Bereit zur Überprüfung durch unser Team zur Prüfung von Pull-Anfragen.
