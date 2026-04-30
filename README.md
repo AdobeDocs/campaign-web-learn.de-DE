@@ -7,4 +7,4 @@ ht-degree: 0%
 ---
 # ARCHIVIERT
 
-Dieses Repository wurde nach <https://github.com/Adobe-Enterprise-Docs/campaign-web-learn.en> migriert.
+Dieses Repository wurde nach <https://github.com/Adobe-Enterprise-Docs/campaign-web-learn.de-DE> migriert.
