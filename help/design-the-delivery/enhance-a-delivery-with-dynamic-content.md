@@ -38,6 +38,6 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Nachrichteninhalte mithilfe des Ausdruckseditors dynamisch gestalten können, um Ihre Nachricht zu personalisieren oder bedingte Inhalte hinzuzufügen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3425795/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3505244/?captions=ger&learn=on&enablevpops)
 
 In der Produktdokumentation finden Sie weitere Informationen zum [Gestalten dynamischer Inhalte](https://experienceleague.adobe.com/de/docs/campaign-web/v8/content/dynamic-content/gs-personalization).
